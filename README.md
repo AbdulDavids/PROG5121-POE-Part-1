@@ -5,6 +5,7 @@ Complete:
  
 Doing:
   Adding Tasks Functionality
+  
   Menu GUI
   
 To Do:
