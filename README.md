@@ -1,4 +1,12 @@
 ## This is my PROG5121 POE Task
+
+|Roadmap| Status |
+|--|--|
+| Part 1 | Complete |
+| Part 2 | Due 9th June |
+| Part 3 | TBC |
+
+
 | Complete | Doing | To-Do |
 |--|--|--|
 | Registration  | Adding Tasks | Displaying Tasks |
